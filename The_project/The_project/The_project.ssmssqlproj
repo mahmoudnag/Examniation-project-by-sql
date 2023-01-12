@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="The_project">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-RCPA2KI:DESKTOP-RCPA2KI\org">
+          <Created>2022-09-16T01:49:35.9848858+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-RCPA2KI</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="indexs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>indexs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="instructor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>instructor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="manager_instructor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>manager_instructor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="manager_student.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>manager_student.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mangaer_course.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mangaer_course.sql</FullPath>
+        </FileNode>
+        <FileNode Name="showAndResult-Exam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>showAndResult-Exam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="users name and pass.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>users name and pass.sql</FullPath>
+        </FileNode>
+        <FileNode Name="views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-RCPA2KI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-RCPA2KI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>views.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
